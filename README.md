@@ -1,8 +1,10 @@
 # Calculadora IMC
 
-<img src="" width="100%" heigth="auto">
+<img src="https://user-images.githubusercontent.com/29135156/81965059-e6c9e400-95ed-11ea-9812-5ba236039aef.gif" width="100%" heigth="auto">
 
-Desenvolvimento de um app para calcular o IMC.
+Desenvolvimento de um app que calcula o IMC do usuário, após a inserção do peso e altura. Neste projeto
+utilizamos diversos recursos do flutter, como por exemplo, Form, TextFormFild, Validações de Formulário,
+estilização do formulário e elementos que compõem o mesmo. 
 
 ## Introdução
 
